@@ -7,4 +7,4 @@ Esta es una herramienta simple y en proceso de desarrollo que busca emular disti
 
 ### Ejecución
 
-Este primer prototipo es ejecutado desde el navegador haciendo uso del inspector de elementos. El procedimiento es, ingresar a Whatsapt[https://web.whatsapp.com/] abrir el chat del objetivo y ejecutar el script en la consola del inspector. 
+Este primer prototipo es ejecutado desde el navegador haciendo uso del inspector de elementos. El procedimiento es, ingresar a [Whatsapt](https://web.whatsapp.com/) abrir el chat del objetivo y ejecutar el script en la consola del inspector. 
